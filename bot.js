@@ -102,7 +102,7 @@ async function startLeon() {
     Leon.on('connecting', async () => {
         console.log(`${chalk.green.bold('👻 Leon')}
 ${chalk.white.bold('💬 Version:')} ${chalk.red.bold(config.VERSION)}
-${chalk.blue.italic('👤 Made By TOXIC-DEVIL')}
+${chalk.blue.italic('👤 Made By angilo-angila')}
 
 ${chalk.green.bold("🔄 Connecting...")}`);
     });
